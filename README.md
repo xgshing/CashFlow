@@ -2,6 +2,16 @@
 
 本地记账工具。一个记账项目对应一个 Excel 文件，确认保存后自动写入，并计算收入、支出和结余。账本不登录、不上传。语音识别使用腾讯云。
 
+## 截图
+
+| 首页 | 新增记账 | 项目明细 |
+| --- | --- | --- |
+| ![首页](docs/screenshots/home.jpg) | ![新增记账](docs/screenshots/compose.jpg) | ![项目明细](docs/screenshots/records.jpg) |
+
+| 项目 | 导出的 Excel |
+| --- | --- |
+| ![项目](docs/screenshots/projects.jpg) | ![导出的 Excel](docs/screenshots/excel.png) |
+
 ## 界面
 
 底部只有两个入口：
